@@ -14,7 +14,6 @@ Using minute-level data from Yahoo Finance and a quadratic liquidity cost model,
 - `arbitrage_analysis.py` — Python script to download data, align listings, and compute spreads, optimal trades, and profits.
 - `dual_list_results.csv` — Processed results (example output).
 - Figures (`bps_series.png`, `scatter_qstar.png`, `profit_hist.png`) — Plots generated for the paper.
-- `paper.tex` — LaTeX source of the research paper.
 
 ## Data
 All financial data were obtained from [Yahoo Finance](https://finance.yahoo.com/) using the `yfinance` Python package.
