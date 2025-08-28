@@ -4,7 +4,7 @@ This repository contains the code and data processing scripts for the paper
 **"Liquidity-Constrained Arbitrage: Evidence from a Dual-Listed Stock"**.
 
 ## LinkedIn
-LinkedIn ~~ [LinkedIn](https://www.linkedin.com/in/jamescole05/)
+James Cole - Cardiff University BSc Mathematics ~~ [LinkedIn](https://www.linkedin.com/in/jamescole05/)
 
 ## Overview
 The project explores arbitrage opportunities between Royal Dutch Shell’s dual listings on the London Stock Exchange (SHEL.L) and Euronext Amsterdam (SHELL.AS).  
